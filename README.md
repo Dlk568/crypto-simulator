@@ -1,1 +1,1 @@
-# crypto-simulator
+pip install streamlit
